@@ -8,4 +8,4 @@ I really enjoyed aspects of that role but it also made me realise I prefer more 
 
 Recently I have been working with [Ruby](https://www.ruby-lang.org/en/) and [Elixir](https://elixir-lang.org/) on the back-end and various front-end technologies - mainly [VueJS](https://vuejs.org/), and [Typescript](https://www.typescriptlang.org/). I have also recent mobile application development experience with [Flutter](https://flutter.dev/).
 
-I am currently available for contract work - check out my [CV](https://johnknott.co.uk) if you are interested.
+I am currently available for contract work - check out my [CV](http://johnknott.co.uk) if you are interested.
